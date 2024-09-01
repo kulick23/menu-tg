@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Cyber X Бургер",
+    "price": 19,
+    "weight": 340,
+    "image": "cyber_burger.png",
+    "currentIngredients": ["Булочка бриошь", "салат Айсберг", "томат", "огурец маринованный", "котлета говяжья", "сыр Чеддер", "пепперони жаренные"],
+    "currentSauce": ["сырный","горчичный","бургер"]
+  },
+  {
+    "id": 2,
+    "name": "Бургер с Беконом",
+    "price": 18,
+    "weight": 300,
+    "image": "bbq_burger.png",
+    "currentIngredients": ["Булочка бриошь", "салат Айсберг", "томат", "огурец маринованный", "котлета говяжья", "сыр Чеддер", "бекон жаренный"],
+    "currentSauce": ["майонез","горчичный","BBQ"]
+  },
+  {
+    "id": 3,
+    "name": "Чизбургер",
+    "price": 18,
+    "weight": 320,
+    "image": "cheeseburger.png",
+    "currentIngredients": ["Булочка бриошь", "салат Айсберг", "томат", "огурец маринованный", "котлета говяжья", "сыр Чеддер"],
+    "currentSauce": ["чесночный", "горчичный", "гриль"]
+  },
+  {
+    "id": 4,
+    "name": "Чикен Ролл",
+    "price": 13,
+    "weight": 260,
+    "image": "chicken_roll.png",
+    "currentIngredients": ["Лепешка", "салат Айсберг", "томат", "куринные стрипсы", "сыр Чеддер"],
+    "currentSauce": ["чесночный"]
+  },
+  {
+    "id": 5,
+    "name": "Биф Ролл",
+    "price": 13,
+    "weight": 260,
+    "image": "beef_roll.png",
+    "currentIngredients": ["Лепешка", "салат Айсберг", "томат", "котлета говяжья", "сыр Чеддер"],
+    "currentSauce": ["бургер"]
+  },
+  {
+    "id": 6,
+    "name": "CyberX Крафт-Дог",
+    "price": 11,
+    "weight": 230,
+    "image": "craft_dog.png",
+    "currentIngredients": ["Булочка", "томат", "огурец маринованный", "пепперони жаренные", "колбаска куриная", "криспи лук"],
+    "currentSauce": ["бургер", "гриль"]
+  },
+  {
+    "id": 7,
+    "name": "Сырный Хот-Дог",
+    "price": 10,
+    "weight": 195,
+    "image": "cheese_dog.png",
+    "currentIngredients": ["Булочка", "томат","огурец маринованный", "колбаска куриная", "криспи лук"],
+    "currentSauce": ["сырный", "горчичный", "кетчуп"]
+  },
+  {
+    "id": 8,
+    "name": "BBQ Хот-Дог",
+    "price": 10,
+    "weight": 205,
+    "image": "bbq_dog.png",
+    "currentIngredients": ["Булочка", "томат", "бекон жаренный", "колбаска куриная", "криспи лук"],
+    "currentSauce": ["чесночный", "BBQ"]
+  },
+  {
+    "id": 9,
+    "name": "Френч-Дог",
+    "size": ["L", "XL"],
+    "price": [7, 9],
+    "weight": [205, 250],
+    "image": "french.png",
+    "currentIngredients": ["Булочка"],
+    "currentSauce": ["горчичный", "кетчуп", "майонез"]
+  },
+  {
+    "id": 10,
+    "name": "Картофель Фри",
+    "price": 5,
+    "weight": 130,
+    "image": "fries.png",
+    "currentIngredients": ["Картошка ломтики", "соль"]
+  },
+  {
+    "id": 11,
+    "name": "Картофельные дольки",
+    "price": 5,
+    "weight": 130,
+    "image": "fries2.png",
+    "currentIngredients": ["Картошка дольки", "соль"]
+  },
+  {
+    "id": 12,
+    "name": "Куриные крылья",
+    "size": [3,6,9],
+    "price": [7,12,16],
+    "weight": [80, 150, 240],
+    "image": "chicken.png"
+  },
+  {
+    "id": 13,
+    "name": "Куриные стрипсы",
+    "size": [3,6,9],
+    "price": [8,14,19],
+    "weight": [80, 150, 240],
+    "image": "nuggets.png"
+  }
+]
