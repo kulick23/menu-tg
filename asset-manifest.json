@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/menu-tg/static/css/main.72bfa2f2.css",
-    "main.js": "/menu-tg/static/js/main.44d21c22.js",
+    "main.css": "/menu-tg/static/css/main.68439989.css",
+    "main.js": "/menu-tg/static/js/main.7386f7db.js",
     "static/js/453.f40db438.chunk.js": "/menu-tg/static/js/453.f40db438.chunk.js",
+    "static/media/bbq_burger.png": "/menu-tg/static/media/bbq_burger.4146e58afff824f74910.png",
+    "static/media/cheeseburger.png": "/menu-tg/static/media/cheeseburger.1fb48e5b996c9ced8dd9.png",
+    "static/media/cyber_burger.png": "/menu-tg/static/media/cyber_burger.14403d26e06047619c52.png",
+    "static/media/bbq_dog.png": "/menu-tg/static/media/bbq_dog.287c97888856eb9e8677.png",
+    "static/media/cheese_dog.png": "/menu-tg/static/media/cheese_dog.6e6fa6f3ffb5b13a728c.png",
+    "static/media/craft_dog.png": "/menu-tg/static/media/craft_dog.7995125758a6a2afc549.png",
+    "static/media/chicken_roll.png": "/menu-tg/static/media/chicken_roll.3234163eecee639c17e5.png",
+    "static/media/nuggets.png": "/menu-tg/static/media/nuggets.c5f4c46813ba9c645ee7.png",
+    "static/media/fries2.png": "/menu-tg/static/media/fries2.e5bac0bb513286c024e1.png",
+    "static/media/beef_roll.png": "/menu-tg/static/media/beef_roll.b08204a1a8f1538f7339.png",
+    "static/media/fries.png": "/menu-tg/static/media/fries.8ba0e88d2b5a77ec100f.png",
+    "static/media/chicken.png": "/menu-tg/static/media/chicken.5e6a7dfefbe0032f5550.png",
+    "static/media/french.png": "/menu-tg/static/media/french.3e1d303aff84d74a03e6.png",
     "index.html": "/menu-tg/index.html",
-    "main.72bfa2f2.css.map": "/menu-tg/static/css/main.72bfa2f2.css.map",
-    "main.44d21c22.js.map": "/menu-tg/static/js/main.44d21c22.js.map",
+    "main.68439989.css.map": "/menu-tg/static/css/main.68439989.css.map",
+    "main.7386f7db.js.map": "/menu-tg/static/js/main.7386f7db.js.map",
     "453.f40db438.chunk.js.map": "/menu-tg/static/js/453.f40db438.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72bfa2f2.css",
-    "static/js/main.44d21c22.js"
+    "static/css/main.68439989.css",
+    "static/js/main.7386f7db.js"
   ]
 }
